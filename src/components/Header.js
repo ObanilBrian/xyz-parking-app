@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <Navbar className="border sticky-top bg-white">
         <Container>
-          <Navbar.Brand href="/">XYZ Corporation Parking System</Navbar.Brand>
+          <Navbar.Brand href="/">XYZ Parking System</Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse className="justify-content-end">
             <Nav className="">

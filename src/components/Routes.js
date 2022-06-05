@@ -2,8 +2,6 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import App from "./App";
-
-// pages
 import Home from "../pages/Home";
 
 export default function AppRoutes() {
